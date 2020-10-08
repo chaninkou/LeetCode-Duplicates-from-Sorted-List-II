@@ -1,4 +1,4 @@
-package duplicates2;
+package leetcode82;
 
 
 public class ListNode {
